@@ -2,6 +2,10 @@
 Sesh is an app that allows you to schedule gaming sessions and discover people to play your favourite games with.
 This repository is the lib folder for the app.
 
+Sessions | Profile | Create New Session 1 | Create New Session 2
+:---:|:---:|:---:|:---:
+<img width="375" alt="0Sessions" src="https://user-images.githubusercontent.com/19469980/151916698-f21608b5-611a-4bfc-a9f4-3da87661f6e0.png"> | ![1Profile](https://user-images.githubusercontent.com/19469980/151916727-04c5b044-5cdb-4a85-babf-107ca367e54e.png) | ![2 1Create New Session pg1](https://user-images.githubusercontent.com/19469980/151916730-145e5838-1fc8-4499-912a-c07f1bdc0ea2.png) | ![2 2Create New Session pg2](https://user-images.githubusercontent.com/19469980/151916735-0286cff4-b006-4d7f-a040-0391716a1db9.png)
+
 - Written in Flutter, with reactive programming and a firebase backend.
 - Please install the following dependencies:
   - cupertino_icons: ^1.0.2
